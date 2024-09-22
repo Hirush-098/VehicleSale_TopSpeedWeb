@@ -1,0 +1,337 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\TopSpeed.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TopSpeed.Web.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\images\\brand\\023517b8-2036-459a-b22d-1a4bb8880d70.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\023517b8-2036-459a-b22d-1a4bb8880d70.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\images\\brand\\1346649e-f10a-4711-babd-cf090d84ff87.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\1346649e-f10a-4711-babd-cf090d84ff87.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\images\\brand\\1d32d949-7961-43cb-b00b-0db5e3f6a002.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\1d32d949-7961-43cb-b00b-0db5e3f6a002.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\images\\brand\\32f32f65-5d75-4bdc-bf02-47f370dae557.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\32f32f65-5d75-4bdc-bf02-47f370dae557.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\images\\brand\\493c020a-89ce-47b8-b0dc-0d2c0b190226.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\493c020a-89ce-47b8-b0dc-0d2c0b190226.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\images\\brand\\66151eed-e2e9-4a78-9236-f1f481d41756.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\66151eed-e2e9-4a78-9236-f1f481d41756.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\images\\brand\\6724c6a9-5d58-46b4-b521-65177d20f4ab.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\6724c6a9-5d58-46b4-b521-65177d20f4ab.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\images\\brand\\7dc3aaca-feee-4863-b875-73dc2521aad7.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\7dc3aaca-feee-4863-b875-73dc2521aad7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\images\\brand\\ac66c6da-cd39-4561-b4f4-10ec635e7ee9.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\ac66c6da-cd39-4561-b4f4-10ec635e7ee9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\images\\brand\\ac8585c9-cfc4-4899-9c32-ce5f512399e0.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\ac8585c9-cfc4-4899-9c32-ce5f512399e0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\images\\brand\\c0ef551b-c4bd-4f4a-a350-c8b0515d0dae.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\c0ef551b-c4bd-4f4a-a350-c8b0515d0dae.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\images\\brand\\c7bea420-f1f2-4130-bff6-2bd4c51716ec.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\c7bea420-f1f2-4130-bff6-2bd4c51716ec.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\images\\post\\0a8e5808-45c1-46d5-9c88-0914299898b0.jpg",
+      "PackagePath": "staticwebassets\\images\\post\\0a8e5808-45c1-46d5-9c88-0914299898b0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\images\\post\\394f39c1-dace-4b77-ac6d-d72a002a00de.jpg",
+      "PackagePath": "staticwebassets\\images\\post\\394f39c1-dace-4b77-ac6d-d72a002a00de.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\images\\post\\39c44e10-2418-482f-a7ce-a2816a5cf196.jpg",
+      "PackagePath": "staticwebassets\\images\\post\\39c44e10-2418-482f-a7ce-a2816a5cf196.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\images\\post\\94e236cc-67e7-4393-aeea-6b762f46953b.jpg",
+      "PackagePath": "staticwebassets\\images\\post\\94e236cc-67e7-4393-aeea-6b762f46953b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\images\\post\\9c932615-2a80-45c9-9000-6d42ccfc45f1.jpg",
+      "PackagePath": "staticwebassets\\images\\post\\9c932615-2a80-45c9-9000-6d42ccfc45f1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\images\\post\\9d07970a-33b1-4d2c-b2c9-7cc222cf1c00.jpg",
+      "PackagePath": "staticwebassets\\images\\post\\9d07970a-33b1-4d2c-b2c9-7cc222cf1c00.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\car\\TopSpeedAutoMobile\\TopSpeed.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.TopSpeed.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.TopSpeed.Web.props",
+      "PackagePath": "build\\TopSpeed.Web.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TopSpeed.Web.props",
+      "PackagePath": "buildMultiTargeting\\TopSpeed.Web.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.TopSpeed.Web.props",
+      "PackagePath": "buildTransitive\\TopSpeed.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

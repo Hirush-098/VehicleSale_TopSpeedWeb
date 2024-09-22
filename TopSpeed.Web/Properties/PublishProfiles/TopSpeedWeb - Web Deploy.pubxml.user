@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAydJBhwnqf02rI3WO1vzEmgAAAAACAAAAAAAQZgAAAAEAACAAAABrNwHsCNWZSZrgv4JKUAYSMl/ePJjx8qWroPdxj66cAgAAAAAOgAAAAAIAACAAAADn4intjN088pwIr94Y/Y9Ie+EqAL2QekKJQxc3WE5b8oAAAACeGPDCAZlbihZUf2jB4X5IoNU4zKp1RQ3HF5aBuRRDtmFsXkogICFXI99Q1YkRU2T+LBsyqz6f+Md4oY9n53LloXZg3pocb+AlMJPtOSZ+REDYCydyieEZRiF1lonmBcuM5i3rJBtuTx3E/5gxfmxp+VAIsiQ6+rYt7H6DUPjwEEAAAABw5TECvV9UgZ1odE+nVlyX+wucjQB8OdVdDPd/N/rqLsqukiTQeB52XXgY/JFKfGXcduwhrfXa4aloiocWWI67</EncryptedPassword>
+    <History>True|2024-09-15T19:35:24.3562675Z;True|2024-09-16T00:50:56.6303091+05:30;False|2024-09-16T00:49:12.2167854+05:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=tcp:cwktopspeed.database.windows.net,1433%3bInitial Catalog=topspeed%3bPersist Security Info=False%3bUser ID=adminUser%3bPassword=Admin%40123%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

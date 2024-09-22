@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\car\TopSpeedAutoMobile\TopSpeed.Application\bin\Release\net8.0\TopSpeed.Application.deps.json
+C:\Users\Asus\Desktop\car\TopSpeedAutoMobile\TopSpeed.Application\bin\Release\net8.0\TopSpeed.Application.dll
+C:\Users\Asus\Desktop\car\TopSpeedAutoMobile\TopSpeed.Application\bin\Release\net8.0\TopSpeed.Application.pdb
+C:\Users\Asus\Desktop\car\TopSpeedAutoMobile\TopSpeed.Application\bin\Release\net8.0\TopSpeed.Domain.dll
+C:\Users\Asus\Desktop\car\TopSpeedAutoMobile\TopSpeed.Application\bin\Release\net8.0\TopSpeed.Domain.pdb
+C:\Users\Asus\Desktop\car\TopSpeedAutoMobile\TopSpeed.Application\obj\Release\net8.0\TopSpeed.Application.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\car\TopSpeedAutoMobile\TopSpeed.Application\obj\Release\net8.0\TopSpeed.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\car\TopSpeedAutoMobile\TopSpeed.Application\obj\Release\net8.0\TopSpeed.Application.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\car\TopSpeedAutoMobile\TopSpeed.Application\obj\Release\net8.0\TopSpeed.Application.AssemblyInfo.cs
+C:\Users\Asus\Desktop\car\TopSpeedAutoMobile\TopSpeed.Application\obj\Release\net8.0\TopSpeed.Application.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\car\TopSpeedAutoMobile\TopSpeed.Application\obj\Release\net8.0\TopSpeed.Application.csproj.CopyComplete
+C:\Users\Asus\Desktop\car\TopSpeedAutoMobile\TopSpeed.Application\obj\Release\net8.0\TopSpeed.Application.dll
+C:\Users\Asus\Desktop\car\TopSpeedAutoMobile\TopSpeed.Application\obj\Release\net8.0\refint\TopSpeed.Application.dll
+C:\Users\Asus\Desktop\car\TopSpeedAutoMobile\TopSpeed.Application\obj\Release\net8.0\TopSpeed.Application.pdb
+C:\Users\Asus\Desktop\car\TopSpeedAutoMobile\TopSpeed.Application\obj\Release\net8.0\ref\TopSpeed.Application.dll

@@ -1,0 +1,12 @@
+C:\Users\Asus\Desktop\car\TopSpeedAutoMobile\TopSpeed.Domain\bin\Debug\net8.0\TopSpeed.Domain.deps.json
+C:\Users\Asus\Desktop\car\TopSpeedAutoMobile\TopSpeed.Domain\bin\Debug\net8.0\TopSpeed.Domain.dll
+C:\Users\Asus\Desktop\car\TopSpeedAutoMobile\TopSpeed.Domain\bin\Debug\net8.0\TopSpeed.Domain.pdb
+C:\Users\Asus\Desktop\car\TopSpeedAutoMobile\TopSpeed.Domain\obj\Debug\net8.0\TopSpeed.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\car\TopSpeedAutoMobile\TopSpeed.Domain\obj\Debug\net8.0\TopSpeed.Domain.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\car\TopSpeedAutoMobile\TopSpeed.Domain\obj\Debug\net8.0\TopSpeed.Domain.AssemblyInfo.cs
+C:\Users\Asus\Desktop\car\TopSpeedAutoMobile\TopSpeed.Domain\obj\Debug\net8.0\TopSpeed.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\car\TopSpeedAutoMobile\TopSpeed.Domain\obj\Debug\net8.0\TopSpeed.Domain.dll
+C:\Users\Asus\Desktop\car\TopSpeedAutoMobile\TopSpeed.Domain\obj\Debug\net8.0\refint\TopSpeed.Domain.dll
+C:\Users\Asus\Desktop\car\TopSpeedAutoMobile\TopSpeed.Domain\obj\Debug\net8.0\TopSpeed.Domain.pdb
+C:\Users\Asus\Desktop\car\TopSpeedAutoMobile\TopSpeed.Domain\obj\Debug\net8.0\ref\TopSpeed.Domain.dll
+C:\Users\Asus\Desktop\car\TopSpeedAutoMobile\TopSpeed.Domain\obj\Debug\net8.0\TopSpeed.Domain.csproj.AssemblyReference.cache
